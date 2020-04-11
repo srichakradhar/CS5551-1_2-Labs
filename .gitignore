@@ -1,0 +1,6 @@
+node_modules
+build
+npm-debug.log
+.env
+.DS_Store
+Lab10/node_modules
